@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "kor"
-title: "self-study by kkahlua"
+title: "kkahlua's Portfolio"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "kkahlua"
-description: "self-study."
+name: "최성운 (seoung woon choi)"
+description: "Portfolio"
 url: "https://kkahlua.github.io/"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name: "kkahlua"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I want to be a front-end engineer"
+  name: "최성운 (seoung woon choi)"
+  avatar: "/assets/images/Identification.jpg"
+  bio: "충북대학교 소프트웨어학과 4학년"
   location: "Chung ju  and Daejeoun"
   email:
   links:
